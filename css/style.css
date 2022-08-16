@@ -893,7 +893,7 @@ label {
     -webkit-animation: 300ms ease-in-out 0s normal none 1 running fadeInDown;
     display: block;
     box-shadow: 0px 10px 20px 0px rgba(8, 0, 42, 0.08);
-    
+
 }
 
 .header-sticky.sticky.sticky-2{
@@ -1539,7 +1539,7 @@ input.main-search-input:-ms-input-placeholder {
 
     line-height: 30px;
 
-    color: #999999;
+    color: #FFFFFF;
 
     margin-bottom: 15px;
 
